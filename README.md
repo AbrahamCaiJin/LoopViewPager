@@ -16,7 +16,7 @@ allprojects {
 
 //app目录  gradle
 dependencies {
-	 implementation 'com.github.jack921:LoopViewPagers:1.2'
+	 implementation 'com.github.AbrahamCaiJin:LoopViewPager:1.0.0'
 }
 ```
 
